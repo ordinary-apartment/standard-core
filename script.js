@@ -18,6 +18,17 @@
   // Keep image retrieval separate from rendering so an approved API/affiliate
   // adapter can replace this resolver without changing the tile component.
   const resolveImageUrl = (product) => product.imageUrl || '';
+  const createPlaceholder = (product, bg, fg) => {
+    const placeholder=document.createElement('div');
+    placeholder.className='product-placeholder';
+    placeholder.style.setProperty('--placeholder',bg);
+    placeholder.style.setProperty('--placeholder-ink',fg);
+    placeholder.setAttribute('aria-label',`${product.name} placeholder`);
+    const initialsNode=document.createElement('span');
+    initialsNode.textContent=initials(product.name);
+    placeholder.append(initialsNode);
+    return placeholder;
+  };
   const matches = (p, q) => !q || [p.name,p.brand,p.category,p.country].join(' ').toLowerCase().includes(q.toLowerCase());
   function render(){
     const q = searchInput.value.trim();
@@ -29,8 +40,18 @@
       if(p.amazonUrl){tile.href=p.amazonUrl;tile.target='_blank';tile.rel='sponsored noopener noreferrer'}
       const [bg,fg]=palettes[p.category]||palettes.Others;
       const imageUrl = resolveImageUrl(p);
-      if(imageUrl){const img=document.createElement('img');img.className='product-image';img.loading='lazy';img.src=imageUrl;img.alt=`${p.name} — ${p.brand}`;tile.append(img)}
-      else {const ph=document.createElement('div');ph.className='product-placeholder';ph.style.setProperty('--placeholder',bg);ph.style.setProperty('--placeholder-ink',fg);ph.setAttribute('aria-label',`${p.name} placeholder`);const s=document.createElement('span');s.textContent=initials(p.name);ph.append(s);tile.append(ph)}
+      if(imageUrl){
+        const img=document.createElement('img');
+        img.className='product-image';
+        img.loading='lazy';
+        img.decoding='async';
+        img.src=imageUrl;
+        img.alt=`${p.name} — ${p.brand}`;
+        img.addEventListener('error',()=>img.replaceWith(createPlaceholder(p,bg,fg)),{once:true});
+        tile.append(img);
+      } else {
+        tile.append(createPlaceholder(p,bg,fg));
+      }
       const info=document.createElement('div');info.className='tile-info';
       info.innerHTML=`<span class="tile-id">${p.id}</span><span class="tile-name"></span><span class="tile-brand"></span><span class="tile-description"></span>${p.year?`<span class="tile-year">${p.year}</span>`:''}`;
       info.querySelector('.tile-name').textContent=p.name; info.querySelector('.tile-brand').textContent=p.brand; info.querySelector('.tile-description').textContent=p.description; tile.append(info); grid.append(tile);
