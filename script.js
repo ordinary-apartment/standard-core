@@ -12,7 +12,7 @@
     'Stationery':['#1e4164','#f1efe8'],'Food & Drink':['#c14b32','#fff3d8'],'Daily Goods':['#8f5d3f','#fff8e9'],
     'Household':['#3f777d','#f1f5e9'],'Electronics':['#343a49','#eef0f4'],'Tools':['#b56732','#fff0d7'],
     'Kitchen':['#b9a26a','#25231d'],'Furniture':['#6b5a4b','#f1e7d7'],'Clothing':['#435d78','#f1f2ed'],
-    'Hygiene':['#7891a1','#fff7ef'],'Storage':['#518a7a','#f4f0dc'],'Lighting':['#c38c32','#292821'],'Others':['#676767','#fff']
+    'Hygiene':['#7891a1','#fff7ef'],'Storage':['#518a7a','#f4f0dc'],'Lighting':['#c38c32','#292821'],'Office':['#5a6e7d','#f0f2ef'],'Institutional':['#69736b','#f2f0e8'],'Transport':['#425a61','#f0eee7'],'Others':['#676767','#fff']
   };
   const initials = (name) => name.replace(/[^A-Za-z0-9]/g,' ').trim().split(/\s+/).slice(0,3).map(x=>x[0]).join('').toUpperCase() || 'SC';
   const isSafeHttpUrl = (value) => {
