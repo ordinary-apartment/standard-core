@@ -351,9 +351,9 @@
     "description": "A compact meal replacement for desks, bags and train platforms.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Calorie%20Mate%20001.jpg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Calorie%20mate%20012.jpg",
     "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Calorie_Mate_001.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Calorie_mate_012.jpg",
     "imageLicense": "CC0",
     "imageCredit": "Ocdp / Wikimedia Commons",
     "imageFit": "contain"
@@ -431,11 +431,11 @@
     "description": "Clear glass that turns a recipe into a visible measure.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrex%20and%20PYREX.jpg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrex%201-quart%20liquid%20measuring%20cup%20-%20DPLA%20-%20b07e5efc0a37cf693d74b366a3065c72.jpg",
     "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pyrex_and_PYREX.jpg",
-    "imageLicense": "CC0",
-    "imageCredit": "Picofluidicist / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pyrex_1-quart_liquid_measuring_cup_-_DPLA_-_b07e5efc0a37cf693d74b366a3065c72.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "Science History Institute / Wikimedia Commons",
     "imageFit": "contain"
   },
   {
@@ -528,11 +528,11 @@
     "description": "A balanced arm that made task lighting adjustable.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anglepoise1227.jpg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Type%201227%20desk%20lamp%2C%20Anglepoise%2C%20designed%20by%20George%20Carwardine%2C%20manufactured%20by%20Herbert%20Terry%20and%20Sons%2C%201935%20-%20Design%20Museum%2C%20Kensington%20-%20London%20-%20DSC01571.jpg",
     "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anglepoise1227.jpg",
-    "imageLicense": "Public domain",
-    "imageCredit": "CATMANUM / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Type_1227_desk_lamp,_Anglepoise,_designed_by_George_Carwardine,_manufactured_by_Herbert_Terry_and_Sons,_1935_-_Design_Museum,_Kensington_-_London_-_DSC01571.jpg",
+    "imageLicense": "CC0",
+    "imageCredit": "Daderot / Wikimedia Commons",
     "imageFit": "contain"
   },
   {
@@ -579,11 +579,11 @@
     "description": "The blue spray bottle behind the clear window.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Original%20windex.jpg",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Windex%20%2848089717956%29.jpg",
     "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Original_windex.jpg",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageCredit": "Mblumber / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Windex_(48089717956).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageCredit": "Ajay Suresh / Wikimedia Commons",
     "imageFit": "contain"
   },
   {
@@ -681,11 +681,11 @@
     "description": "A plastic brick whose basic grammar crosses generations.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LEGO%20brick.png",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lego%20Brick.jpg",
     "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LEGO_brick.png",
-    "imageLicense": "Public domain",
-    "imageCredit": "HotWheels53 / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lego_Brick.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Срђан Весић / Wikimedia Commons",
     "imageFit": "contain"
   }
 ]
