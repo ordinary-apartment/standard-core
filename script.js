@@ -1,7 +1,5 @@
 (() => {
   const grid = document.querySelector('#productGrid');
-  const count = document.querySelector('#count');
-  const queryState = document.querySelector('#queryState');
   const empty = document.querySelector('#emptyState');
   const searchPanel = document.querySelector('#searchPanel');
   const searchInput = document.querySelector('#searchInput');
@@ -37,12 +35,24 @@
       info.innerHTML=`<span class="tile-id">${p.id}</span><span class="tile-name"></span><span class="tile-brand"></span><span class="tile-description"></span>${p.year?`<span class="tile-year">${p.year}</span>`:''}`;
       info.querySelector('.tile-name').textContent=p.name; info.querySelector('.tile-brand').textContent=p.brand; info.querySelector('.tile-description').textContent=p.description; tile.append(info); grid.append(tile);
     });
-    count.textContent=`${visible.length} ${visible.length===1?'object':'objects'}`;
-    queryState.textContent=q?`/ ${q}`:''; empty.hidden=visible.length!==0;
+    empty.hidden=visible.length!==0;
   }
-  searchToggle.addEventListener('click',()=>{const open=searchPanel.hidden;searchPanel.hidden=!open;searchToggle.setAttribute('aria-expanded',String(open));if(open)searchInput.focus()});
+  const closeSearch = () => {
+    searchPanel.hidden = true;
+    searchToggle.setAttribute('aria-expanded','false');
+  };
+  searchToggle.addEventListener('click',()=>{
+    const open=searchPanel.hidden;
+    searchPanel.hidden=!open;
+    searchToggle.setAttribute('aria-expanded',String(open));
+    if(open)searchInput.focus();
+    else searchToggle.focus();
+  });
+  document.addEventListener('keydown',(event)=>{
+    if(event.key==='Escape' && !searchPanel.hidden){closeSearch();searchToggle.focus();}
+  });
   clearSearch.addEventListener('click',()=>{searchInput.value='';render();searchInput.focus()});
   searchInput.addEventListener('input',render);
   gridToggle.addEventListener('click',()=>{document.body.classList.toggle('dense');gridToggle.setAttribute('aria-pressed',String(document.body.classList.contains('dense')))});
-  fetch('products.json').then(r=>{if(!r.ok)throw new Error('products.json unavailable');return r.json()}).then(data=>{products=data;render()}).catch(()=>{count.textContent='catalog unavailable';empty.hidden=false});
+  fetch('products.json').then(r=>{if(!r.ok)throw new Error('products.json unavailable');return r.json()}).then(data=>{products=data;render()}).catch(()=>{empty.hidden=false});
 })();
