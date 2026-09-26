@@ -37,9 +37,43 @@ The first three catalog images use Wikimedia Commons file redirects. The files r
 
 | Product | Provider | Source and license | Verified |
 | --- | --- | --- | --- |
-| Cup Noodles | Wikimedia Commons | [202404 Cup Noodle](https://commons.wikimedia.org/wiki/File:202404_Cup_Noodle.jpg), CC0 1.0 | 2026-09-27 |
-| Kikkoman Soy Sauce Dispenser | Wikimedia Commons | [Kikkoman soysauce](https://commons.wikimedia.org/wiki/File:Kikkoman_soysauce.jpg), CC BY 2.0 | 2026-09-27 |
-| LAMY safari | Wikimedia Commons | [LamySafari](https://commons.wikimedia.org/wiki/File:LamySafari.jpg), CC BY-SA 3.0 | 2026-09-27 |
+| Cup Noodles | Wikimedia Commons | [202404 Cup Noodle.jpg](https://commons.wikimedia.org/wiki/File:202404_Cup_Noodle.jpg), CC0 1.0 — ボッチボード / Wikimedia Commons | 2026-09-27 |
+| Kikkoman Soy Sauce Dispenser | Wikimedia Commons | [Kikkoman soysauce.jpg](https://commons.wikimedia.org/wiki/File:Kikkoman_soysauce.jpg), CC BY 2.0 — Creative Tools AB / Wikimedia Commons | 2026-09-27 |
+| LAMY safari | Wikimedia Commons | [LamySafari.jpg](https://commons.wikimedia.org/wiki/File:LamySafari.jpg), CC BY-SA 3.0 — Malpei / Wikimedia Commons | 2026-09-27 |
+| BIC Classic Lighter | Wikimedia Commons | [Bic Lighter.JPG](https://commons.wikimedia.org/wiki/File:Bic_Lighter.JPG), CC BY 3.0 — Dwight Burdette / Wikimedia Commons | 2026-09-27 |
+| MONO Eraser | Wikimedia Commons | [Tombow MONO.jpg](https://commons.wikimedia.org/wiki/File:Tombow_MONO.jpg), CC BY-SA 4.0 — Kgw1226 / Wikimedia Commons | 2026-09-27 |
+| OLFA Cutter | Wikimedia Commons | [OLFA cutter.JPG](https://commons.wikimedia.org/wiki/File:OLFA_cutter.JPG), CC BY-SA 3.0 — Guillermo Arévalo Aucahuasi / Wikimedia Commons | 2026-09-27 |
+| Pocari Sweat | Wikimedia Commons | [Pocari sweat 500ml.jpg](https://commons.wikimedia.org/wiki/File:Pocari_sweat_500ml.jpg), CC BY-SA 2.5 — Geographer / Wikimedia Commons | 2026-09-27 |
+| NIVEA Creme | Wikimedia Commons | [Nivea Creme.webp](https://commons.wikimedia.org/wiki/File:Nivea_Creme.webp), CC BY-SA 4.0 — Susana22BN / Wikimedia Commons | 2026-09-27 |
+| Cow Brand Beauty Soap Red Box | Wikimedia Commons | [Beauty Sope.jpg](https://commons.wikimedia.org/wiki/File:Beauty_Sope.jpg), CC BY-SA 3.0 — Toneriko_ef / Wikimedia Commons | 2026-09-27 |
+| Scotch Tape | Wikimedia Commons | [Scotch Tape.jpg](https://commons.wikimedia.org/wiki/File:Scotch_Tape.jpg), CC BY-SA 3.0 — Improbcat / Wikimedia Commons | 2026-09-27 |
+| CASIO F-91W | Wikimedia Commons | [Casio F-91W watch (2023) (front view - full length).jpg](https://commons.wikimedia.org/wiki/File:Casio_F-91W_watch_(2023)_(front_view_-_full_length).jpg), CC BY-SA 4.0 — Multicherry / Wikimedia Commons | 2026-09-27 |
+| CASIO Calculator | Wikimedia Commons | [Casio Calculator.jpg](https://commons.wikimedia.org/wiki/File:Casio_Calculator.jpg), CC BY-SA 4.0 — Yumigahama / Wikimedia Commons | 2026-09-27 |
+| MAX Stapler | Wikimedia Commons | [Stapler 001.jpg](https://commons.wikimedia.org/wiki/File:Stapler_001.jpg), CC0 — Ocdp / Wikimedia Commons | 2026-09-27 |
+| Zojirushi Electric Pot | Wikimedia Commons | [Zojirushi CD-XD30 20101026.jpg](https://commons.wikimedia.org/wiki/File:Zojirushi_CD-XD30_20101026.jpg), Public domain — Batholith / Wikimedia Commons | 2026-09-27 |
+| Duralex Picardie | Wikimedia Commons | [Picardie glass.jpg](https://commons.wikimedia.org/wiki/File:Picardie_glass.jpg), CC BY-SA 3.0 — Denkhenk / Wikimedia Commons | 2026-09-27 |
+| Enamel Mug | Wikimedia Commons | [Enamel mug.jpg](https://commons.wikimedia.org/wiki/File:Enamel_mug.jpg), CC BY 3.0 — Knoe / Wikimedia Commons | 2026-09-27 |
+| Kimwipes | Wikimedia Commons | [KimWipe (S).jpg](https://commons.wikimedia.org/wiki/File:KimWipe_(S).jpg), CC BY-SA 3.0 — D.328 / Wikimedia Commons | 2026-09-27 |
+| MAGLITE | Wikimedia Commons | [Maglite Flashlight.jpg](https://commons.wikimedia.org/wiki/File:Maglite_Flashlight.jpg), CC BY-SA 2.0 — redjar / Wikimedia Commons | 2026-09-27 |
+| CalorieMate | Wikimedia Commons | [Calorie Mate 001.jpg](https://commons.wikimedia.org/wiki/File:Calorie_Mate_001.jpg), CC0 — Ocdp / Wikimedia Commons | 2026-09-27 |
+| Yakult | Wikimedia Commons | [Yakult drink.jpg](https://commons.wikimedia.org/wiki/File:Yakult_drink.jpg), CC BY-SA 4.0 — Amin / Wikimedia Commons | 2026-09-27 |
+| Converse All Star | Wikimedia Commons | [Converse All Star.jpg](https://commons.wikimedia.org/wiki/File:Converse_All_Star.jpg), CC0 — LuanCampSouza93 / Wikimedia Commons | 2026-09-27 |
+| EASTPAK backpack | Wikimedia Commons | [Eastpak Sugarbush backpack black.jpg](https://commons.wikimedia.org/wiki/File:Eastpak_Sugarbush_backpack_black.jpg), CC BY-SA 4.0 — Ubcule / Wikimedia Commons | 2026-09-27 |
+| Pyrex Measuring Cup | Wikimedia Commons | [Pyrex and PYREX.jpg](https://commons.wikimedia.org/wiki/File:Pyrex_and_PYREX.jpg), CC0 — Picofluidicist / Wikimedia Commons | 2026-09-27 |
+| IKEA FRAKTA | Wikimedia Commons | [イケアのイエローバッグ (4940095895).jpg](https://commons.wikimedia.org/wiki/File:イケアのイエローバッグ_(4940095895).jpg), CC BY 2.0 — t.ohashi / Wikimedia Commons | 2026-09-27 |
+| Victorinox Swiss Army Knife | Wikimedia Commons | [Victorinox Swiss Army Knife.jpg](https://commons.wikimedia.org/wiki/File:Victorinox_Swiss_Army_Knife.jpg), CC BY 2.0 — James Case / Wikimedia Commons | 2026-09-27 |
+| Zippo Classic Lighter | Wikimedia Commons | [Zippolighter.jpg](https://commons.wikimedia.org/wiki/File:Zippolighter.jpg), Public domain — Jan1024.mueller / Wikimedia Commons | 2026-09-27 |
+| Power Strip | Wikimedia Commons | [Power strip.jpg](https://commons.wikimedia.org/wiki/File:Power_strip.jpg), CC BY-SA 4.0 — User1779637 / Wikimedia Commons | 2026-09-27 |
+| Anglepoise-style Desk Lamp | Wikimedia Commons | [Anglepoise1227.jpg](https://commons.wikimedia.org/wiki/File:Anglepoise1227.jpg), Public domain — CATMANUM / Wikimedia Commons | 2026-09-27 |
+| Folding Chair | Wikimedia Commons | [Folding Chair (USA), 1863–75 (CH 18691569-2).jpg](https://commons.wikimedia.org/wiki/File:Folding_Chair_(USA),_1863–75_(CH_18691569-2).jpg), Public Domain Mark 1.0 — Edward W. Vaill / Wikimedia Commons | 2026-09-27 |
+| Post-it Notes | Wikimedia Commons | [Post it notes.jpg](https://commons.wikimedia.org/wiki/File:Post_it_notes.jpg), Public domain — EraserGirl / Wikimedia Commons | 2026-09-27 |
+| Windex Glass Cleaner | Wikimedia Commons | [Original windex.jpg](https://commons.wikimedia.org/wiki/File:Original_windex.jpg), CC BY-SA 3.0 — Mblumber / Wikimedia Commons | 2026-09-27 |
+| Vaseline Petroleum Jelly | Wikimedia Commons | [Vaseline Opened.jpg](https://commons.wikimedia.org/wiki/File:Vaseline_Opened.jpg), CC BY-SA 3.0 — Med Chaos / Wikimedia Commons | 2026-09-27 |
+| Kleenex Tissue | Wikimedia Commons | [Kleenex-small-box.jpg](https://commons.wikimedia.org/wiki/File:Kleenex-small-box.jpg), Public domain — Evan-Amos / Wikimedia Commons | 2026-09-27 |
+| Postman’s Rubber Band | Wikimedia Commons | [Rubber bands.jpg](https://commons.wikimedia.org/wiki/File:Rubber_bands.jpg), CC BY-SA 2.5 — FML / Wikimedia Commons | 2026-09-27 |
+| Cork Notice Board | Wikimedia Commons | [Cork board.jpg](https://commons.wikimedia.org/wiki/File:Cork_board.jpg), CC BY 2.0 — net_efekt / Wikimedia Commons | 2026-09-27 |
+| Duct Tape | Wikimedia Commons | [Duct-tape.jpg](https://commons.wikimedia.org/wiki/File:Duct-tape.jpg), Public domain — Evan-Amos / Wikimedia Commons | 2026-09-27 |
+| Lego Brick | Wikimedia Commons | [LEGO brick.png](https://commons.wikimedia.org/wiki/File:LEGO_brick.png), Public domain — HotWheels53 / Wikimedia Commons | 2026-09-27 |
 
 `resolveImageUrl(product)` accepts only `http:` and `https:` URLs. A failed image request replaces the image with the normal placeholder. No image file is downloaded into this repository. For Amazon or Rakuten images, a permitted affiliate/API credential and provider-specific terms are required before an adapter can be added.
 

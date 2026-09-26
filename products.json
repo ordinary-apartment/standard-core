@@ -60,7 +60,12 @@
     "description": "A disposable lighter recognized almost everywhere.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bic%20Lighter.JPG",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bic_Lighter.JPG",
+    "imageLicense": "CC BY 3.0",
+    "imageCredit": "Dwight Burdette / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000005",
@@ -84,7 +89,12 @@
     "description": "A standard Japanese eraser for generations.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tombow%20MONO.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tombow_MONO.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Kgw1226 / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000007",
@@ -96,7 +106,12 @@
     "description": "The original snap-off blade cutter.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/OLFA%20cutter.JPG",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:OLFA_cutter.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Guillermo Arévalo Aucahuasi / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000008",
@@ -108,7 +123,12 @@
     "description": "Japan’s iconic ion drink, found from schools to vending machines.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocari%20sweat%20500ml.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pocari_sweat_500ml.jpg",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageCredit": "Geographer / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000009",
@@ -120,7 +140,12 @@
     "description": "A blue tin of skin cream known across generations.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nivea%20Creme.webp",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nivea_Creme.webp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Susana22BN / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000010",
@@ -132,7 +157,12 @@
     "description": "A red box and a familiar bar in Japanese bathrooms.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20Sope.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Beauty_Sope.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Toneriko_ef / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000011",
@@ -144,7 +174,12 @@
     "description": "Clear adhesive tape that quietly became office infrastructure.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scotch%20Tape.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Scotch_Tape.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Improbcat / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000012",
@@ -168,7 +203,12 @@
     "description": "A digital watch reduced to the essentials.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Casio%20F-91W%20watch%20%282023%29%20%28front%20view%20-%20full%20length%29.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Casio_F-91W_watch_(2023)_(front_view_-_full_length).jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Multicherry / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000014",
@@ -180,7 +220,12 @@
     "description": "The pocket machine that made arithmetic portable.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Casio%20Calculator.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Casio_Calculator.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Yumigahama / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000015",
@@ -192,7 +237,12 @@
     "description": "A compact metal tool found on desks everywhere.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stapler%20001.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stapler_001.jpg",
+    "imageLicense": "CC0",
+    "imageCredit": "Ocdp / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000016",
@@ -216,7 +266,12 @@
     "description": "Hot water on demand in the quiet center of a kitchen.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zojirushi%20CD-XD30%2020101026.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Zojirushi_CD-XD30_20101026.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "Batholith / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000018",
@@ -228,7 +283,12 @@
     "description": "The tough café glass that became a household standard.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Picardie%20glass.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Picardie_glass.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Denkhenk / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000019",
@@ -240,7 +300,12 @@
     "description": "A hard-wearing mug for kitchens, camps and workshops.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Enamel%20mug.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Enamel_mug.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageCredit": "Knoe / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000020",
@@ -252,7 +317,12 @@
     "description": "Laboratory tissue made ordinary by everyday precision work.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KimWipe%20%28S%29.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:KimWipe_(S).jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "D.328 / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000021",
@@ -264,7 +334,12 @@
     "description": "The heavy aluminum flashlight built for dependable use.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maglite%20Flashlight.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Maglite_Flashlight.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageCredit": "redjar / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000022",
@@ -276,7 +351,12 @@
     "description": "A compact meal replacement for desks, bags and train platforms.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Calorie%20Mate%20001.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Calorie_Mate_001.jpg",
+    "imageLicense": "CC0",
+    "imageCredit": "Ocdp / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000023",
@@ -288,7 +368,12 @@
     "description": "A tiny probiotic bottle with a global daily ritual.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakult%20drink.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yakult_drink.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Amin / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000024",
@@ -300,7 +385,12 @@
     "description": "The canvas sneaker that outlived its original court.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Converse%20All%20Star.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Converse_All_Star.jpg",
+    "imageLicense": "CC0",
+    "imageCredit": "LuanCampSouza93 / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000025",
@@ -324,7 +414,12 @@
     "description": "A simple backpack carried through school, work and travel.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastpak%20Sugarbush%20backpack%20black.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Eastpak_Sugarbush_backpack_black.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Ubcule / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000027",
@@ -336,7 +431,12 @@
     "description": "Clear glass that turns a recipe into a visible measure.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrex%20and%20PYREX.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pyrex_and_PYREX.jpg",
+    "imageLicense": "CC0",
+    "imageCredit": "Picofluidicist / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000028",
@@ -348,7 +448,12 @@
     "description": "The blue carry-all that became an everyday IKEA signal.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%A4%E3%82%B1%E3%82%A2%E3%81%AE%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0%20%284940095895%29.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:イケアのイエローバッグ_(4940095895).jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageCredit": "t.ohashi / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000029",
@@ -360,7 +465,12 @@
     "description": "Many small tools folded into one pocket object.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victorinox%20Swiss%20Army%20Knife.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Victorinox_Swiss_Army_Knife.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageCredit": "James Case / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000030",
@@ -372,7 +482,12 @@
     "description": "A refillable metal lighter recognized by its click.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zippolighter.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Zippolighter.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "Jan1024.mueller / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000031",
@@ -396,7 +511,12 @@
     "description": "The low-profile object behind every powered desk.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Power%20strip.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Power_strip.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "User1779637 / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000033",
@@ -408,7 +528,12 @@
     "description": "A balanced arm that made task lighting adjustable.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anglepoise1227.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anglepoise1227.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "CATMANUM / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000034",
@@ -420,7 +545,12 @@
     "description": "A spare seat that appears when ordinary space runs out.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Folding%20Chair%20%28USA%29%2C%201863%E2%80%9375%20%28CH%2018691569-2%29.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Folding_Chair_(USA),_1863–75_(CH_18691569-2).jpg",
+    "imageLicense": "Public Domain Mark 1.0",
+    "imageCredit": "Edward W. Vaill / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000035",
@@ -432,7 +562,12 @@
     "description": "A small square that turned temporary thoughts visible.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Post%20it%20notes.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Post_it_notes.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "EraserGirl / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000036",
@@ -444,7 +579,12 @@
     "description": "The blue spray bottle behind the clear window.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Original%20windex.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Original_windex.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Mblumber / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000037",
@@ -456,7 +596,12 @@
     "description": "A small jar that became a household verb for protection.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaseline%20Opened.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vaseline_Opened.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Med Chaos / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000038",
@@ -468,7 +613,12 @@
     "description": "Disposable softness made routine in homes and offices.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleenex-small-box.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kleenex-small-box.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "Evan-Amos / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000039",
@@ -480,7 +630,12 @@
     "description": "The elastic loop that keeps loose things together.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rubber%20bands.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rubber_bands.jpg",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageCredit": "FML / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000040",
@@ -492,7 +647,12 @@
     "description": "A quiet wall for reminders, lists and forgotten plans.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cork%20board.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_board.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageCredit": "net_efekt / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000041",
@@ -504,7 +664,12 @@
     "description": "A roll of tape that became a general-purpose verb.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duct-tape.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Duct-tape.jpg",
+    "imageLicense": "Public domain",
+    "imageCredit": "Evan-Amos / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000042",
@@ -516,6 +681,11 @@
     "description": "A plastic brick whose basic grammar crosses generations.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LEGO%20brick.png",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LEGO_brick.png",
+    "imageLicense": "Public domain",
+    "imageCredit": "HotWheels53 / Wikimedia Commons",
+    "imageFit": "contain"
   }
 ]
