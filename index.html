@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="STANDARD CORE — ordinary products for everyday life, selected from around the world.">
+  <title>STANDARD CORE® — ordinary products</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="STANDARD CORE home">
+      <strong>STANDARD CORE<sup>®</sup></strong>
+      <span>ordinary products for everyday life.<br>selected from around the world.</span>
+    </a>
+    <div class="header-actions">
+      <button class="icon-button" id="searchToggle" type="button" aria-label="Search products" aria-expanded="false">⌕</button>
+      <button class="icon-button" id="gridToggle" type="button" aria-label="Toggle grid density">⊞</button>
+    </div>
+  </header>
+  <main>
+    <section class="search-panel" id="searchPanel" hidden>
+      <label for="searchInput">SEARCH</label>
+      <input id="searchInput" type="search" autocomplete="off" placeholder="name, brand, category, country">
+      <button id="clearSearch" type="button">clear</button>
+    </section>
+    <div class="archive-meta"><span id="count">— objects</span><span id="queryState"></span></div>
+    <section class="product-grid" id="productGrid" aria-live="polite"></section>
+    <p class="empty-state" id="emptyState" hidden>No objects found.</p>
+  </main>
+  <script src="script.js" defer></script>
+</body>
+</html>
