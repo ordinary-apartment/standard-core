@@ -20,6 +20,7 @@ body{margin:0;min-width:280px}
 .product-tile{position:relative;display:block;aspect-ratio:4/5;min-width:0;overflow:hidden;background:#ddd;border:0;padding:0;color:#fff;text-align:left;cursor:pointer}
 .product-tile:focus-visible{outline:2px solid var(--ink);outline-offset:-2px}
 .product-image,.product-placeholder{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.product-image.is-contain{object-fit:contain;background:var(--paper);padding:7%}
 .product-placeholder{display:flex;align-items:center;justify-content:center;color:var(--placeholder-ink,#fff);background:var(--placeholder,#6a6b68);font-size:clamp(18px,2.2vw,40px);font-weight:700;letter-spacing:-.06em}
 .product-placeholder span{opacity:.9}
 .product-tile::after{content:"";position:absolute;inset:37% 0 0;background:linear-gradient(to bottom,transparent,rgba(0,0,0,.72));pointer-events:none}
@@ -29,6 +30,8 @@ body{margin:0;min-width:280px}
 .tile-brand{display:block;margin-top:3px;font-size:clamp(8px,.76vw,11px);opacity:.73}
 .tile-description{display:block;margin-top:4px;max-width:27ch;font-size:clamp(8px,.68vw,10px);line-height:1.15;opacity:.77}
 .tile-year{display:block;margin-top:4px;font:8px ui-monospace,SFMono-Regular,Menlo,monospace;opacity:.66}
+.image-credit{display:inline-block;margin-top:3px;color:rgba(255,255,255,.58);font:7px ui-monospace,SFMono-Regular,Menlo,monospace;text-decoration:none;opacity:.8}
+.image-credit:hover,.image-credit:focus-visible{color:#fff;text-decoration:underline}
 .empty-state{padding:40px 16px;color:var(--muted);font-size:13px;text-align:center}
 .dense .product-grid{gap:2px}
 .dense .tile-description,.dense .tile-brand{display:none}

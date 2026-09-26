@@ -20,8 +20,28 @@ Fields:
 - `asin`: optional Amazon ASIN
 - `amazonUrl`: optional affiliate/product URL
 - `imageUrl`: optional image URL obtained through a permitted source
+- `imageProvider`: optional provider identifier such as `wikimedia`, `amazon`, `rakuten`, or `manufacturer`
+- `imageSourceUrl`: optional source page used to verify the image and its license
+- `imageLicense`: optional license label for the image
+- `imageCredit`: optional attribution text
+- `imageFit`: optional `contain` value for product photos that should not be cropped
+- `productUrl`: optional non-affiliate product page URL
+- `affiliateUrl`: optional affiliate URL; it takes priority over `amazonUrl` and `productUrl`
+- `jan`: optional JAN or other catalog identifier
 
 The page uses a graphic placeholder while `imageUrl` is empty. Do not copy or re-host Amazon product images. Keep image retrieval separate from the catalog data so an approved API or affiliate image service can be added later.
+
+## External image records
+
+The first three catalog images use Wikimedia Commons file redirects. The files remain hosted by Wikimedia; STANDARD CORE stores URLs and attribution metadata only.
+
+| Product | Provider | Source and license | Verified |
+| --- | --- | --- | --- |
+| Cup Noodles | Wikimedia Commons | [202404 Cup Noodle](https://commons.wikimedia.org/wiki/File:202404_Cup_Noodle.jpg), CC0 1.0 | 2026-09-27 |
+| Kikkoman Soy Sauce Dispenser | Wikimedia Commons | [Kikkoman soysauce](https://commons.wikimedia.org/wiki/File:Kikkoman_soysauce.jpg), CC BY 2.0 | 2026-09-27 |
+| LAMY safari | Wikimedia Commons | [LamySafari](https://commons.wikimedia.org/wiki/File:LamySafari.jpg), CC BY-SA 3.0 | 2026-09-27 |
+
+`resolveImageUrl(product)` accepts only `http:` and `https:` URLs. A failed image request replaces the image with the normal placeholder. No image file is downloaded into this repository. For Amazon or Rakuten images, a permitted affiliate/API credential and provider-specific terms are required before an adapter can be added.
 
 If an Amazon link is added, the interface opens it in a new tab with `rel="sponsored noopener noreferrer"`. Prices are never shown.
 

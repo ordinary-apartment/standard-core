@@ -9,7 +9,12 @@
     "description": "Instant noodles that changed modern life.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/202404%20Cup%20Noodle.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:202404_Cup_Noodle.jpg",
+    "imageLicense": "CC0 1.0",
+    "imageCredit": "ボッチボード / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000002",
@@ -21,7 +26,12 @@
     "description": "A global icon for the dining table.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kikkoman%20soysauce.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kikkoman_soysauce.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageCredit": "Creative Tools AB / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000003",
@@ -33,7 +43,12 @@
     "description": "A school pen that became a design classic.",
     "asin": "",
     "amazonUrl": "",
-    "imageUrl": ""
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/LamySafari.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LamySafari.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Malpei / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
     "id": "SC-000004",

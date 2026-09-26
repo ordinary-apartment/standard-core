@@ -15,9 +15,16 @@
     'Hygiene':['#7891a1','#fff7ef'],'Storage':['#518a7a','#f4f0dc'],'Lighting':['#c38c32','#292821'],'Others':['#676767','#fff']
   };
   const initials = (name) => name.replace(/[^A-Za-z0-9]/g,' ').trim().split(/\s+/).slice(0,3).map(x=>x[0]).join('').toUpperCase() || 'SC';
+  const isSafeHttpUrl = (value) => {
+    if (!value || typeof value !== 'string') return false;
+    try { return /^https?:$/.test(new URL(value, window.location.href).protocol); }
+    catch { return false; }
+  };
   // Keep image retrieval separate from rendering so an approved API/affiliate
   // adapter can replace this resolver without changing the tile component.
-  const resolveImageUrl = (product) => product.imageUrl || '';
+  const resolveImageUrl = (product) => isSafeHttpUrl(product.imageUrl) ? product.imageUrl : '';
+  const resolveProductUrl = (product) => [product.affiliateUrl, product.amazonUrl, product.productUrl]
+    .find(isSafeHttpUrl) || '';
   const createPlaceholder = (product, bg, fg) => {
     const placeholder=document.createElement('div');
     placeholder.className='product-placeholder';
@@ -35,14 +42,20 @@
     const visible = products.filter(p=>matches(p,q));
     grid.replaceChildren();
     visible.forEach(p=>{
-      const tile=document.createElement(p.amazonUrl?'a':'article');
+      const productUrl = resolveProductUrl(p);
+      const tile=document.createElement(productUrl?'a':'article');
       tile.className='product-tile'; tile.dataset.id=p.id;
-      if(p.amazonUrl){tile.href=p.amazonUrl;tile.target='_blank';tile.rel='sponsored noopener noreferrer'}
+      if(productUrl){
+        tile.href=productUrl;
+        tile.target='_blank';
+        tile.rel=(p.affiliateUrl || p.amazonUrl) ? 'sponsored noopener noreferrer' : 'noopener noreferrer';
+      }
       const [bg,fg]=palettes[p.category]||palettes.Others;
       const imageUrl = resolveImageUrl(p);
       if(imageUrl){
         const img=document.createElement('img');
         img.className='product-image';
+        if (p.imageFit === 'contain') img.classList.add('is-contain');
         img.loading='lazy';
         img.decoding='async';
         img.src=imageUrl;
@@ -55,6 +68,20 @@
       const info=document.createElement('div');info.className='tile-info';
       info.innerHTML=`<span class="tile-id">${p.id}</span><span class="tile-name"></span><span class="tile-brand"></span><span class="tile-description"></span>${p.year?`<span class="tile-year">${p.year}</span>`:''}`;
       info.querySelector('.tile-name').textContent=p.name; info.querySelector('.tile-brand').textContent=p.brand; info.querySelector('.tile-description').textContent=p.description; tile.append(info); grid.append(tile);
+      if (p.imageSourceUrl && isSafeHttpUrl(p.imageSourceUrl) && p.imageLicense) {
+        const credit = document.createElement(productUrl ? 'span' : 'a');
+        credit.className = 'image-credit';
+        credit.textContent = p.imageLicense === 'CC0 1.0'
+          ? 'CC0'
+          : `${p.imageCredit || 'Image source'} · ${p.imageLicense}`;
+        credit.title = `${p.imageCredit || 'Image source'} — ${p.imageLicense}`;
+        if (credit.tagName === 'A') {
+          credit.href = p.imageSourceUrl;
+          credit.target = '_blank';
+          credit.rel = 'noopener noreferrer';
+        }
+        info.append(credit);
+      }
     });
     empty.hidden=visible.length!==0;
   }
