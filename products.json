@@ -718,5 +718,35 @@
     "imageLicense": "CC BY-SA 3.0",
     "imageCredit": "Dbenbenn / Wikimedia Commons",
     "imageFit": "contain"
+  },
+  {
+    "id": "SC-000061",
+    "name": "KOKUYO Campus Notebook",
+    "brand": "KOKUYO",
+    "year": 1975,
+    "category": "Stationery",
+    "country": "Japan",
+    "description": "A school notebook repeated across Japanese classrooms until its ruled pages became part of the visual background.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88%20%2848008286817%29.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88_(48008286817).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageCredit": "chinnian / Wikimedia Commons",
+    "imageFit": "contain"
+  },
+  {
+    "id": "SC-000062",
+    "name": "Tajima Top Conve Tape Measure",
+    "brand": "Tajima Tool",
+    "year": null,
+    "category": "Tools",
+    "country": "Japan",
+    "description": "A compact retractable measure built for the repeated, practical work of construction and maintenance.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tajima%20Top%20Conve%20%E6%8D%B2%E5%B0%BA.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tajima_Top_Conve_%E6%8D%B2%E5%B0%BA.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Honmingjun / Wikimedia Commons",
+    "imageFit": "contain"
   }
 ]
