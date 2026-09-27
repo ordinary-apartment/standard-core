@@ -763,5 +763,35 @@
     "imageLicense": "CC0 1.0",
     "imageCredit": "LeDroider / Wikimedia Commons",
     "imageFit": "contain"
+  },
+  {
+    "id": "SC-000064",
+    "name": "Maruman Zuan Sketch Book",
+    "brand": "Maruman",
+    "year": 1958,
+    "category": "Stationery",
+    "country": "Japan",
+    "description": "A yellow-and-black sketchbook repeated across Japanese classrooms, studios and stationery shops for generations.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maruman_Sketchbook.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Maruman_Sketchbook.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "高砂の浦 / Wikimedia Commons",
+    "imageFit": "contain"
+  },
+  {
+    "id": "SC-000065",
+    "name": "Coca-Cola Contour Bottle",
+    "brand": "Coca-Cola",
+    "year": 1915,
+    "category": "Food & Drink",
+    "country": "United States",
+    "description": "A bottle whose fluted contour made a mass-market drink recognizable by shape alone.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/CocaColaBottle.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CocaColaBottle.jpg",
+    "imageLicense": "CC BY-SA 3.0 / CC BY 2.5",
+    "imageCredit": "Hariadhi / Wikimedia Commons",
+    "imageFit": "contain"
   }
 ]

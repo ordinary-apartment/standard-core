@@ -84,6 +84,8 @@ The first three catalog images use Wikimedia Commons file redirects. The files r
 | KOKUYO Campus Notebook | Wikimedia Commons | [キャンパスノート (48008286817).jpg](https://commons.wikimedia.org/wiki/File:%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88_(48008286817).jpg), CC BY-SA 2.0 — chinnian / Wikimedia Commons | 2026-09-27 |
 | Tajima Top Conve Tape Measure | Wikimedia Commons | [Tajima Top Conve 捲尺.jpg](https://commons.wikimedia.org/wiki/File:Tajima_Top_Conve_%E6%8D%B2%E5%B0%BA.jpg), CC BY-SA 4.0 — Honmingjun / Wikimedia Commons | 2026-09-27 |
 | New Balance 574 | Wikimedia Commons | [New Balance 574.jpg](https://commons.wikimedia.org/wiki/File:New_Balance_574.jpg), CC0 1.0 — LeDroider / Wikimedia Commons | 2026-09-27 |
+| Maruman Zuan Sketch Book | Wikimedia Commons | [Maruman Sketchbook.jpg](https://commons.wikimedia.org/wiki/File:Maruman_Sketchbook.jpg), CC BY-SA 4.0 — 高砂の浦 / Wikimedia Commons | 2026-09-27 |
+| Coca-Cola Contour Bottle | Wikimedia Commons | [CocaColaBottle.jpg](https://commons.wikimedia.org/wiki/File:CocaColaBottle.jpg), CC BY-SA 3.0 / CC BY 2.5 — Hariadhi / Wikimedia Commons | 2026-09-27 |
 
 `resolveImageUrl(product)` accepts only `http:` and `https:` URLs. A failed image request replaces the image with the normal placeholder. No image file is downloaded into this repository. For Amazon or Rakuten images, a permitted affiliate/API credential and provider-specific terms are required before an adapter can be added.
 
