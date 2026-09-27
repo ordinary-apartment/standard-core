@@ -540,21 +540,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000047",
-    "name": "IBM ThinkPad R51",
-    "brand": "IBM",
-    "year": 2004,
-    "category": "Electronics",
-    "country": "United States",
-    "description": "A practical black laptop that carried the ThinkPad work machine into offices, classrooms and meeting rooms.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IBM%20Thinkpad%20R51.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:IBM_Thinkpad_R51.jpg",
-    "imageLicense": "CC BY-SA 2.5",
-    "imageCredit": "André Karwath / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
     "id": "SC-000048",
     "name": "Logitech M100",
     "brand": "Logitech",
@@ -792,6 +777,36 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CocaColaBottle.jpg",
     "imageLicense": "CC BY-SA 3.0 / CC BY 2.5",
     "imageCredit": "Hariadhi / Wikimedia Commons",
+    "imageFit": "contain"
+  },
+  {
+    "id": "SC-000066",
+    "name": "Lenovo ThinkPad X61",
+    "brand": "Lenovo",
+    "year": 2007,
+    "category": "Electronics",
+    "country": "China",
+    "description": "A compact black business notebook that carried mobile office work through the late 2000s.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/ThinkPad_X61.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ThinkPad_X61.jpg",
+    "imageLicense": "CC BY 4.0",
+    "imageCredit": "Ashley Pomeroy / Wikimedia Commons",
+    "imageFit": "contain"
+  },
+  {
+    "id": "SC-000067",
+    "name": "iPod classic (6th generation)",
+    "brand": "Apple",
+    "year": 2007,
+    "category": "Electronics",
+    "country": "United States",
+    "description": "A click-wheel music player that made a personal library part of everyday travel and pre-smartphone life.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/IPod_Classic_6th_Generation_120_GB_-_front.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:IPod_Classic_6th_Generation_120_GB_-_front.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageCredit": "Michał Sulik / Wikimedia Commons",
     "imageFit": "contain"
   }
 ]

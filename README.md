@@ -69,7 +69,6 @@ The first three catalog images use Wikimedia Commons file redirects. The files r
 | Lego Brick | Wikimedia Commons | [Lego Brick.jpg](https://commons.wikimedia.org/wiki/File:Lego_Brick.jpg), CC BY-SA 3.0 — Срђан Весић / Wikimedia Commons | 2026-09-27 |
 | BlackBerry Bold 9000 | Wikimedia Commons | [Blackberry bold 9000.jpg](https://commons.wikimedia.org/wiki/File:Blackberry_bold_9000.jpg), CC BY-SA 4.0 — Wojciech30 / Wikimedia Commons | 2026-09-27 |
 | Brother P-touch 540 | Wikimedia Commons | [Brother P-Touch 540.jpg](https://commons.wikimedia.org/wiki/File:Brother_P-Touch_540.jpg), Public domain — Edward Betts / Wikimedia Commons | 2026-09-27 |
-| IBM ThinkPad R51 | Wikimedia Commons | [IBM Thinkpad R51.jpg](https://commons.wikimedia.org/wiki/File:IBM_Thinkpad_R51.jpg), CC BY-SA 2.5 — André Karwath / Wikimedia Commons | 2026-09-27 |
 | Logitech M100 | Wikimedia Commons | [Logitech M100 (Lost&Found WikiCon 2017).jpg](https://commons.wikimedia.org/wiki/File:Logitech_M100_(Lost%26Found_WikiCon_2017).jpg), CC BY-SA 4.0 — Sandro Halank (WMDE) / Wikimedia Commons | 2026-09-27 |
 | Nokia 3310 | Wikimedia Commons | [Nokia 3310 blue.jpg](https://commons.wikimedia.org/wiki/File:Nokia_3310_blue.jpg), Public domain — Michael Brandtner / Wikimedia Commons | 2026-09-27 |
 | Motorola RAZR V3 | Wikimedia Commons | [Motorola RAZR V3-4900.jpg](https://commons.wikimedia.org/wiki/File:Motorola_RAZR_V3-4900.jpg), CC BY-SA 4.0 — Raimond Spekking / Wikimedia Commons | 2026-09-27 |
@@ -86,6 +85,8 @@ The first three catalog images use Wikimedia Commons file redirects. The files r
 | New Balance 574 | Wikimedia Commons | [New Balance 574.jpg](https://commons.wikimedia.org/wiki/File:New_Balance_574.jpg), CC0 1.0 — LeDroider / Wikimedia Commons | 2026-09-27 |
 | Maruman Zuan Sketch Book | Wikimedia Commons | [Maruman Sketchbook.jpg](https://commons.wikimedia.org/wiki/File:Maruman_Sketchbook.jpg), CC BY-SA 4.0 — 高砂の浦 / Wikimedia Commons | 2026-09-27 |
 | Coca-Cola Contour Bottle | Wikimedia Commons | [CocaColaBottle.jpg](https://commons.wikimedia.org/wiki/File:CocaColaBottle.jpg), CC BY-SA 3.0 / CC BY 2.5 — Hariadhi / Wikimedia Commons | 2026-09-27 |
+| Lenovo ThinkPad X61 | Wikimedia Commons | [ThinkPad X61.jpg](https://commons.wikimedia.org/wiki/File:ThinkPad_X61.jpg), CC BY 4.0 — Ashley Pomeroy / Wikimedia Commons | 2026-09-27 |
+| iPod classic (6th generation) | Wikimedia Commons | [IPod Classic 6th Generation 120 GB - front.jpg](https://commons.wikimedia.org/wiki/File:IPod_Classic_6th_Generation_120_GB_-_front.jpg), CC BY 3.0 — Michał Sulik / Wikimedia Commons | 2026-09-27 |
 
 `resolveImageUrl(product)` accepts only `http:` and `https:` URLs. A failed image request replaces the image with the normal placeholder. No image file is downloaded into this repository. For Amazon or Rakuten images, a permitted affiliate/API credential and provider-specific terms are required before an adapter can be added.
 
