@@ -748,5 +748,20 @@
     "imageLicense": "CC BY-SA 4.0",
     "imageCredit": "Honmingjun / Wikimedia Commons",
     "imageFit": "contain"
+  },
+  {
+    "id": "SC-000063",
+    "name": "New Balance 574",
+    "brand": "New Balance",
+    "year": null,
+    "category": "Clothing",
+    "country": "United States",
+    "description": "A practical running shoe that became an everyday standard across streets, schools and ordinary wardrobes.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/New_Balance_574.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:New_Balance_574.jpg",
+    "imageLicense": "CC0 1.0",
+    "imageCredit": "LeDroider / Wikimedia Commons",
+    "imageFit": "contain"
   }
 ]
