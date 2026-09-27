@@ -68,18 +68,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000005",
-    "name": "PLUS Flat File",
-    "brand": "PLUS",
-    "year": null,
-    "category": "Stationery",
-    "country": "Japan",
-    "description": "A basic office file for keeping documents in order.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": ""
-  },
-  {
     "id": "SC-000006",
     "name": "MONO Eraser",
     "brand": "Tombow",
@@ -94,40 +82,6 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tombow_MONO.jpg",
     "imageLicense": "CC BY-SA 4.0",
     "imageCredit": "Kgw1226 / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
-    "id": "SC-000007",
-    "name": "OLFA Cutter",
-    "brand": "OLFA",
-    "year": 1956,
-    "category": "Tools",
-    "country": "Japan",
-    "description": "The original snap-off blade cutter.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/OLFA%20cutter.JPG",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:OLFA_cutter.JPG",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageCredit": "Guillermo Arévalo Aucahuasi / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
-    "id": "SC-000008",
-    "name": "Pocari Sweat",
-    "brand": "Otsuka",
-    "year": 1980,
-    "category": "Food & Drink",
-    "country": "Japan",
-    "description": "Japan’s iconic ion drink, found from schools to vending machines.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocari%20sweat%20500ml.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pocari_sweat_500ml.jpg",
-    "imageLicense": "CC BY-SA 2.5",
-    "imageCredit": "Geographer / Wikimedia Commons",
     "imageFit": "contain"
   },
   {
@@ -163,35 +117,6 @@
     "imageLicense": "CC BY-SA 3.0",
     "imageCredit": "Toneriko_ef / Wikimedia Commons",
     "imageFit": "contain"
-  },
-  {
-    "id": "SC-000011",
-    "name": "Scotch Tape",
-    "brand": "3M",
-    "year": 1930,
-    "category": "Stationery",
-    "country": "United States",
-    "description": "Clear adhesive tape that quietly became office infrastructure.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scotch%20Tape.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Scotch_Tape.jpg",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageCredit": "Improbcat / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
-    "id": "SC-000012",
-    "name": "Arabic Yamato Glue",
-    "brand": "Yamato",
-    "year": null,
-    "category": "Stationery",
-    "country": "Japan",
-    "description": "The small yellow glue pot behind countless school projects.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": ""
   },
   {
     "id": "SC-000013",
@@ -243,18 +168,6 @@
     "imageLicense": "CC0",
     "imageCredit": "Ocdp / Wikimedia Commons",
     "imageFit": "contain"
-  },
-  {
-    "id": "SC-000016",
-    "name": "TRUSCO Tool Box",
-    "brand": "TRUSCO",
-    "year": null,
-    "category": "Tools",
-    "country": "Japan",
-    "description": "A blue steel box for the tools that keep things working.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": ""
   },
   {
     "id": "SC-000017",
@@ -359,23 +272,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000023",
-    "name": "Yakult",
-    "brand": "Yakult",
-    "year": 1935,
-    "category": "Food & Drink",
-    "country": "Japan",
-    "description": "A tiny probiotic bottle with a global daily ritual.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakult%20drink.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yakult_drink.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageCredit": "Amin / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
     "id": "SC-000024",
     "name": "Converse All Star",
     "brand": "Converse",
@@ -391,18 +287,6 @@
     "imageLicense": "CC0",
     "imageCredit": "LuanCampSouza93 / Wikimedia Commons",
     "imageFit": "contain"
-  },
-  {
-    "id": "SC-000025",
-    "name": "Hanes T-Shirt",
-    "brand": "Hanes",
-    "year": null,
-    "category": "Clothing",
-    "country": "United States",
-    "description": "A blank cotton layer that became a uniform of its own.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": ""
   },
   {
     "id": "SC-000026",
@@ -490,18 +374,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000031",
-    "name": "Japanese Blue Plastic Bucket",
-    "brand": "Toyo-Sasaki",
-    "year": null,
-    "category": "Household",
-    "country": "Japan",
-    "description": "A blue utility bucket with no need for explanation.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": ""
-  },
-  {
     "id": "SC-000032",
     "name": "Power Strip",
     "brand": "Panasonic",
@@ -570,23 +442,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000036",
-    "name": "Windex Glass Cleaner",
-    "brand": "SC Johnson",
-    "year": 1936,
-    "category": "Household",
-    "country": "United States",
-    "description": "The blue spray bottle behind the clear window.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Windex%20%2848089717956%29.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Windex_(48089717956).jpg",
-    "imageLicense": "CC BY 2.0",
-    "imageCredit": "Ajay Suresh / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
     "id": "SC-000037",
     "name": "Vaseline Petroleum Jelly",
     "brand": "Vaseline",
@@ -621,23 +476,6 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000039",
-    "name": "Postman’s Rubber Band",
-    "brand": "Office Standard",
-    "year": null,
-    "category": "Stationery",
-    "country": "Japan",
-    "description": "The elastic loop that keeps loose things together.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rubber%20bands.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rubber_bands.jpg",
-    "imageLicense": "CC BY-SA 2.5",
-    "imageCredit": "FML / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
     "id": "SC-000040",
     "name": "Cork Notice Board",
     "brand": "IKEA",
@@ -652,23 +490,6 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cork_board.jpg",
     "imageLicense": "CC BY 2.0",
     "imageCredit": "net_efekt / Wikimedia Commons",
-    "imageFit": "contain"
-  },
-  {
-    "id": "SC-000041",
-    "name": "Duct Tape",
-    "brand": "Duck",
-    "year": 1942,
-    "category": "Tools",
-    "country": "United States",
-    "description": "A roll of tape that became a general-purpose verb.",
-    "asin": "",
-    "amazonUrl": "",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duct-tape.jpg",
-    "imageProvider": "wikimedia",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Duct-tape.jpg",
-    "imageLicense": "Public domain",
-    "imageCredit": "Evan-Amos / Wikimedia Commons",
     "imageFit": "contain"
   },
   {
@@ -702,24 +523,6 @@
     "imageLicense": "CC BY-SA 4.0",
     "imageCredit": "Wojciech30 / Wikimedia Commons",
     "imageFit": "contain"
-  },
-  {
-    "id": "SC-000044",
-    "name": "KOKUYO Steel Office Desk",
-    "brand": "KOKUYO",
-    "year": 1965,
-    "category": "Office",
-    "country": "Japan",
-    "description": "A steel desk form that spread through Japanese offices, schools and public workplaces as paperwork became routine."
-  },
-  {
-    "id": "SC-000045",
-    "name": "KOKUYO Steel Locker",
-    "brand": "KOKUYO",
-    "year": null,
-    "category": "Institutional",
-    "country": "Japan",
-    "description": "A restrained steel fixture repeated in offices, schools, hospitals and changing rooms across Japan."
   },
   {
     "id": "SC-000046",
@@ -872,21 +675,48 @@
     "imageFit": "contain"
   },
   {
-    "id": "SC-000056",
-    "name": "KING JIM King File",
-    "brand": "KING JIM",
-    "year": 1964,
-    "category": "Office",
+    "id": "SC-000058",
+    "name": "NT Cutter A-300",
+    "brand": "NT Cutter",
+    "year": 1972,
+    "category": "Tools",
     "country": "Japan",
-    "description": "A ring binder that made labelled paper storage a basic visual language of Japanese offices and schools."
+    "description": "A light-duty snap-off cutter whose plain ivory body became a familiar tool in Japanese offices, schools and workshops.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A-300%20-%20NT%20Incorporated.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A-300_-_NT_Incorporated.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageCredit": "Quercus acuta / Wikimedia Commons",
+    "imageFit": "contain"
   },
   {
-    "id": "SC-000057",
-    "name": "AMANO Time Recorder",
-    "brand": "AMANO",
-    "year": 1932,
+    "id": "SC-000059",
+    "name": "Simplex Time Recorder",
+    "brand": "Simplex",
+    "year": null,
     "category": "Institutional",
-    "country": "Japan",
-    "description": "A time recorder that turned the arrival and departure of workers into a routine administrative object."
+    "country": "United States",
+    "description": "A mechanical time recorder that turned the beginning and end of a workday into a physical mark on a card.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Simplex%20Time%20Recorder%201.JPG",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Simplex_Time_Recorder_1.JPG",
+    "imageLicense": "Public domain",
+    "imageCredit": "Daderot / Wikimedia Commons",
+    "imageFit": "contain"
+  },
+  {
+    "id": "SC-000060",
+    "name": "Plastic Pallet",
+    "brand": "Industrial standard",
+    "year": null,
+    "category": "Industrial",
+    "country": "International",
+    "description": "A reusable load platform repeated behind warehouses, factories and distribution systems.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20pallet.jpg",
+    "imageProvider": "wikimedia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Plastic_pallet.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageCredit": "Dbenbenn / Wikimedia Commons",
+    "imageFit": "contain"
   }
 ]
